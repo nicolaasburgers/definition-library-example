@@ -1,0 +1,8 @@
+Zig Zag Polyline,1
+True
+nicolaasburgers
+-
+-
+-
+Polyline
+Geo
