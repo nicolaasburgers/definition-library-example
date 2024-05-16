@@ -1,6 +1,8 @@
-FlatCap Two Piece Example,1
+FlatCap Two Piece Example,2
 False
 nicolaasburgers
+N:
+bake_geometry,Bake Geometry,1
 P:
 FlatCap,1.0.0.0
 Human,1.7.3.0
