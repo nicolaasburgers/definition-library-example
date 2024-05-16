@@ -1,0 +1,7 @@
+Bake Geometry,1
+True
+nicolaasburgers
+O:
+flatcap_two_piece_example,FlatCap Two Piece Example,1
+T:
+Geo
