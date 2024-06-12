@@ -1,0 +1,1 @@
+Subtracts end time from a start time and returns a TimeSpan.
