@@ -1,0 +1,1 @@
+Pass-through gate which outputs UTC time of it being solved.  This is useful in constructing durations of scripts on Rhino Compute in conjunction with the Time Span and Log Azure Application Insights clusters.
