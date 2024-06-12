@@ -1,0 +1,7 @@
+Time Gate,1
+True,False
+nicolaasburgers
+C:
+Time-Gate
+T:
+Logging
