@@ -1,0 +1,9 @@
+Log Azure Application Insights,1
+True,False
+nicolaasburgers
+C:
+Log App Insights
+T:
+Logging
+Azure
+AppInsights
