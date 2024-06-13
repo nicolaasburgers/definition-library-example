@@ -1,0 +1,11 @@
+App Insights Duration By Tags Logging Example,1
+False,True
+nicolaasburgers
+N:
+log_azure_application_insights,Log Azure Application Insights,2
+time_span,Time Span,1
+time_gate,Time Gate,1
+T:
+Azure
+AppInsights
+Logging
