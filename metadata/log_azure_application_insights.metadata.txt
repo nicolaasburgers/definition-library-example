@@ -1,4 +1,4 @@
-Log Azure Application Insights,1
+Log Azure Application Insights,2
 True,False
 nicolaasburgers
 C:
