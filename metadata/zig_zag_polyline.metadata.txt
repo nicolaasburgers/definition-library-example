@@ -1,8 +1,8 @@
-Zig Zag Polyline,2
-True
+Zig Zag Polyline,3
+True,False
 nicolaasburgers
--
--
--
+P:
+Grasshopper,8.12.24282.7001
+T:
 Polyline
 Geo
